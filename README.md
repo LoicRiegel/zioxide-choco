@@ -1,2 +1,3 @@
 # zioxide-choco
-Chocolatey package for zioxide
+
+A Chocolatey package for [zioxide](https://github.com/ajeetdsouza/zoxide).
